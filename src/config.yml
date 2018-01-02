@@ -1,0 +1,8 @@
+# You can use %player% for the player's name or %online% for the number of players online.
+actionbar:
+  use-action-bar: true
+  action-bar-message: "&aWelcome, &a&l%player&a, to &6A Minecraft Server&a! &e%online% are online!"
+title:
+  use-title: true
+  title-message: "&aWelcome to &6A Minecraft Server&a!"
+  sub-title-message: "&aThanks for joining, &6&l%player%&a!"

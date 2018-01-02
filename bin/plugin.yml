@@ -1,0 +1,6 @@
+name: TitleJoin
+version: 1.0.0
+author: ITGuy12
+depend: [PlaceholderAPI]
+main: me.ITGuy12.titlejoin.Main
+description: A title or actionbar on join, completely configurable in the config.yml file. REQUIRES PlaceholderAPI.
